@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html class="rtl" lang="ar" dir="rtl">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="csrf-token" content="ytRty5cGEKaaL53t83AyAOJUi21kqjeYNCp4BNF1">
+    <!-- <link rel="icon" href="<%= BASE_URL %>favicon.ico"> -->
+
+    <title>منصة الجديدة</title>
+    <link rel="stylesheet" type="text/css" href="https://naql.logistec-sea.site/css/loader.css?id=4f39b56a667dc447a5fe" />
+
+
+    <link rel="stylesheet" href="https://naql.logistec-sea.site/css/core.css?id=0284020d614559a3037d">
+    <link rel="stylesheet" href="https://naql.logistec-sea.site/css/custom.css">
+    <link rel="stylesheet" type="text/css" href="https://naql.logistec-sea.site/fonts/font.css">
+
+</head>
+
+
+<script type="text/javascript">
+    var APP_URL = "https:\/\/naql.logistec-sea.site";
+    var APP_NAME = "منصة الجديدة";
+</script>
+
+<body>
+    <noscript>
+        <strong>We're sorry but doesn't work properly without
+            JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="loading-bg">
+        <div class="loading-logo">
+            <img src="https://naql.logistec-sea.site/logo.png" alt="Logo" />
+        </div>
+        <div class="loading">
+            <div class="effect-1 effects"></div>
+            <div class="effect-2 effects"></div>
+            <div class="effect-3 effects"></div>
+        </div>
+    </div>
+
+    <div id="app">
+    </div>
+
+    <script src="https://naql.logistec-sea.site/js/app.js?id=f92285a8cdd65bf76a8f"></script>
+
+</body>
+
+</html>
